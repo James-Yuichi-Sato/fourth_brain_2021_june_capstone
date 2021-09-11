@@ -23,7 +23,7 @@
 # # Import FastAPI, FFmpeg, uvicorn, and JAAD
 
 # In[1]:
-
+from IPython import get_ipython
 
 get_ipython().run_cell_magic('capture', '', '!pip install fastapi ffmpeg uvicorn JAAD python-multipart tensorflow-gpu scikit-image imutils\n\nfrom fastapi import FastAPI, File, UploadFile\nimport nest_asyncio, uvicorn, os\n\nfrom io import BytesIO')
 
