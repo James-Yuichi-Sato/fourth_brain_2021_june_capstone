@@ -9,4 +9,4 @@ ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/
 RUN chmod +x /usr/bin/tini
 ENTRYPOINT ["/usr/bin/tini", "--"]
 
-CMD ["jupyter", "notebook", "./Capstone.ipynb","--port=7999", "--no-browser", "--ip=0.0.0.0", "--allow-root","--NotebookApp.token='pydata'"]
+CMD ["jupyter", "notebook", "./Capstone.ipynb","--port=7999", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
