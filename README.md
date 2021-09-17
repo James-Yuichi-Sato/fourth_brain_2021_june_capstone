@@ -10,7 +10,7 @@ We developed the workflow using the dashcam videos openly available in the [JAAD
 
 This workflow is intended to provide insight to improve the data extraction - data validation - data preparation stages in an MLOps workflow.
 
-<img src="media\mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.png" alt="media\mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.png">
+<img src="media\mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.png" alt="media\mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.png"></img>
 
 https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 
@@ -19,6 +19,12 @@ https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-p
 ## Components of Workflow
 
 ### Overview
+
+<img src="media\Workflow.drawio.png" alt="media\Workflow.drawio.png"></img>
+
+
+
+
 
 
 
@@ -30,13 +36,13 @@ This workflow uses the GCP Cloud Storage library to bulk store the video footage
 
 Before:
 
-<img src="media\GCP_before.png" alt="media\GCP_before.png">
+![GCP Before](media\GCP_before.png)
 
 
 
 After:
 
-<img src="media\GCP_after.png" alt="media\GCP_after.png">
+![GCP After](media\GCP_after.png)
 
 ### Frame Separation
 
@@ -44,15 +50,15 @@ Software pulls frames from mp4 videos using ffmpeg. The frames are stored in a f
 
 ### Noisy Frame Reduction
 
-The software calculates the Laplacian variance of all of the frames of the video using OpenCV, then removes frames with 5% more Laplacian variance than the median. This value was chosen as it would prevent video with multiple types of scenes removing frames due to a scene change rather than noisiness.
+The software calculates the Laplacian variance of all of the frames of the video using OpenCV, then removes frames with 5% more Laplacian variance than the median. This value was chosen as it would prevent video with multiple types of scenes removing frames due to a scene change rather than noisiness. This generally removes around 
 
 ### Similar Frame Reduction
 
 The software uses the structural similarity function from OpenCV to compare frames. It first calculates the similarity between each frame sequentially first, than delete frames that are more than 95% or 105% of the median similarity similar, whichever is greater.
 
-### Object Detection
+### Metadata Tagging for Storage and Retrieval
 
-The software uses the open-source [Faster RCNN Resnet50 model trained on Coco dataset](http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet50_coco_2018_01_28.tar.gz) to detect objects in each frame. The detection classes are saved in a text file with the same name as the frame it was detecting in the frames folder.
+The software uses the open-source [Faster RCNN Resnet50 model trained on Coco dataset](http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet50_coco_2018_01_28.tar.gz) to classify objects in each frame. The detection classes are saved in a text file with the same name as the frame it was detecting in the frames folder.
 
 <img src="media\GCP_frames.png" alt="media\GCP_frames.png">
 
