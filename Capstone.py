@@ -6,7 +6,7 @@ import tensorflow_hub as hub
 import numpy as np
 import tensorflow as tf
 from PIL import Image
-from utils import label_map_util
+#from utils import label_map_util
 import ffmpeg, shutil
 
 from google.cloud import storage
