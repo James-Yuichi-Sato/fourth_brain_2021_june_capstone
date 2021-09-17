@@ -175,6 +175,7 @@ def detect_objects(image):
     output_dict = {key:value[0, :num_detections].numpy() 
     for key,value in output_dict.items()}
         classes = output_dict['detection_classes'].astype(np.int64)
+    wandb.log({'Detection per Image': num_detections})
     return classes
 
 def detect_file(folder_name):
