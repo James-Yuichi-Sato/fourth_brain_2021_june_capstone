@@ -4,9 +4,9 @@ COPY . .
 WORKDIR .
 
 # Install build utilities
-RUN apt update && \
-    apt install -y protobuf-compiler python3-pip python3-dev git && \
-    apt -y upgrade
+RUN apt-get update && \
+    apt-get install -y protobuf-compiler python3-pip python3-dev git && \
+    apt-get -y upgrade
 
 #Install Object Detection dependencies
 RUN python3 -m pip install fastapi ffmpeg uvicorn python-multipart tensorflow-gpu scikit-image imutils wandb tensorflow_hub Pillow
@@ -20,7 +20,7 @@ RUN cd /opt && \
     protoc object_detection/protos/*.proto --python_out=.
     
 RUN cd $HOME && \
-    git clone https://github.com/James-Yuichi-Sato/fourth_brain_2021_june_capstone.git https://github.com/sohiniroych/tensorflow-object-detection-example.git && \
+    git clone https://github.com/James-Yuichi-Sato/fourth_brain_2021_june_capstone.git && \
     cp -a fourth_brain_2021_june_capstone /opt/ && \
     chmod u+x /opt/fourth_brain_2021_june_capstone/Capstone.py
     
