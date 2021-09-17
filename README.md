@@ -70,7 +70,7 @@ After:
 
 ### Frame Separation
 
-Software separates frames from videos using `ffmpeg`. As long as the `ffmpeg` supports the video format used, there should be no issue with the software stack. The frames are stored in a folder with the same name as the video.
+Software separates frames from videos using `OpenCV`. As long as the `OpenCV` supports the video format used, there should be no issue with the software stack. The frames are stored in a folder with the same name as the video.
 
 ### Noisy Frame Reduction
 
