@@ -3,10 +3,34 @@ RUN pip install jupyter fastapi ffmpeg uvicorn JAAD python-multipart tensorflow-
 COPY . .
 WORKDIR .
 
-# Add Tini. Tini operates as a process subreaper for jupyter. This prevents kernel crashes.
-ENV TINI_VERSION v0.19.0
-ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/bin/tini
-RUN chmod +x /usr/bin/tini
-ENTRYPOINT ["/usr/bin/tini", "--"]
+# Install build utilities
+RUN apt update && \
+    apt install -y protobuf-compiler python3-pip python3-dev git && \
+    apt -y upgrade
 
-CMD ["jupyter", "notebook", "./Capstone.ipynb","--port=7999", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
+#Install Object Detection dependencies
+RUN python3 -m pip install fastapi ffmpeg uvicorn python-multipart tensorflow-gpu scikit-image imutils wandb tensorflow_hub Pillow
+
+RUN pip3 install pillow
+
+# Install Object Detection API library
+RUN cd /opt && \
+    git clone https://github.com/tensorflow/models && \
+    cd models/research && \
+    protoc object_detection/protos/*.proto --python_out=.
+    
+RUN cd $HOME && \
+    git clone https://github.com/James-Yuichi-Sato/fourth_brain_2021_june_capstone.git https://github.com/sohiniroych/tensorflow-object-detection-example.git && \
+    cp -a fourth_brain_2021_june_capstone /opt/ && \
+    chmod u+x /opt/fourth_brain_2021_june_capstone/Capstone.py
+    
+    
+RUN python3 /opt/fourth_brain_2021_june_capstone/Capstone.py
+
+ENV WANDB_API_KEY=$YOUR_API_KEY_HERE
+    
+# expose ports
+EXPOSE 8080
+
+#Command
+CMD ["python3", "/opt/fourth_brain_2021_june_capstone/Capstone.py", "serve"]
