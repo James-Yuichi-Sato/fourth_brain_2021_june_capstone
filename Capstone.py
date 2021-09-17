@@ -172,9 +172,8 @@ def detect_objects(image):
     input_tensor = input_tensor[tf.newaxis,...]
     output_dict = model(input_tensor)
     num_detections = int(output_dict.pop('num_detections'))
-    output_dict = {key:value[0, :num_detections].numpy() 
-    for key,value in output_dict.items()}
-        classes = output_dict['detection_classes'].astype(np.int64)
+    output_dict = {key:value[0, :num_detections].numpy() for key,value in output_dict.items()}
+    classes = output_dict['detection_classes'].astype(np.int64)
     wandb.log({'Detection per Image': num_detections})
     return classes
 
