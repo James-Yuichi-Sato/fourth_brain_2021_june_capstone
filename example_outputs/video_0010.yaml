@@ -1,0 +1,335 @@
+Classification Information:
+- Frame: frame00001
+  Number of Detections: 16
+  Objects Detected:
+    car: 15
+    person: 1
+- Frame: frame00002
+  Number of Detections: 16
+  Objects Detected:
+    car: 15
+    person: 1
+- Frame: frame00003
+  Number of Detections: 13
+  Objects Detected:
+    car: 12
+    person: 1
+- Frame: frame00004
+  Number of Detections: 14
+  Objects Detected:
+    car: 13
+    person: 1
+- Frame: frame00005
+  Number of Detections: 13
+  Objects Detected:
+    car: 12
+    person: 1
+- Frame: frame00006
+  Number of Detections: 14
+  Objects Detected:
+    car: 13
+    person: 1
+- Frame: frame00007
+  Number of Detections: 12
+  Objects Detected:
+    car: 11
+    person: 1
+- Frame: frame00008
+  Number of Detections: 12
+  Objects Detected:
+    car: 11
+    person: 1
+- Frame: frame00009
+  Number of Detections: 17
+  Objects Detected:
+    car: 14
+    person: 3
+- Frame: frame00010
+  Number of Detections: 15
+  Objects Detected:
+    car: 11
+    person: 4
+- Frame: frame00011
+  Number of Detections: 20
+  Objects Detected:
+    car: 14
+    person: 6
+- Frame: frame00012
+  Number of Detections: 16
+  Objects Detected:
+    car: 12
+    person: 4
+- Frame: frame00013
+  Number of Detections: 16
+  Objects Detected:
+    car: 10
+    person: 6
+- Frame: frame00014
+  Number of Detections: 14
+  Objects Detected:
+    car: 9
+    person: 5
+- Frame: frame00015
+  Number of Detections: 14
+  Objects Detected:
+    car: 9
+    person: 5
+- Frame: frame00016
+  Number of Detections: 14
+  Objects Detected:
+    car: 9
+    person: 5
+- Frame: frame00017
+  Number of Detections: 13
+  Objects Detected:
+    car: 9
+    person: 4
+- Frame: frame00018
+  Number of Detections: 13
+  Objects Detected:
+    car: 9
+    person: 4
+- Frame: frame00019
+  Number of Detections: 13
+  Objects Detected:
+    car: 9
+    person: 4
+- Frame: frame00020
+  Number of Detections: 12
+  Objects Detected:
+    car: 9
+    person: 3
+- Frame: frame00021
+  Number of Detections: 18
+  Objects Detected:
+    airplane: 1
+    car: 10
+    person: 7
+- Frame: frame00022
+  Number of Detections: 12
+  Objects Detected:
+    car: 8
+    person: 4
+- Frame: frame00023
+  Number of Detections: 16
+  Objects Detected:
+    car: 10
+    person: 6
+- Frame: frame00024
+  Number of Detections: 14
+  Objects Detected:
+    car: 11
+    person: 3
+- Frame: frame00025
+  Number of Detections: 14
+  Objects Detected:
+    car: 10
+    person: 4
+- Frame: frame00026
+  Number of Detections: 15
+  Objects Detected:
+    car: 11
+    person: 4
+- Frame: frame00027
+  Number of Detections: 16
+  Objects Detected:
+    car: 13
+    person: 3
+- Frame: frame00028
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 8
+- Frame: frame00059
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 10
+- Frame: frame00060
+  Number of Detections: 18
+  Objects Detected:
+    car: 10
+    person: 8
+- Frame: frame00062
+  Number of Detections: 12
+  Objects Detected:
+    car: 10
+    person: 2
+- Frame: frame00063
+  Number of Detections: 14
+  Objects Detected:
+    car: 11
+    person: 3
+- Frame: frame00064
+  Number of Detections: 14
+  Objects Detected:
+    car: 12
+    person: 2
+- Frame: frame00065
+  Number of Detections: 16
+  Objects Detected:
+    car: 14
+    person: 2
+- Frame: frame00066
+  Number of Detections: 15
+  Objects Detected:
+    car: 13
+    person: 2
+- Frame: frame00067
+  Number of Detections: 17
+  Objects Detected:
+    car: 14
+    person: 3
+- Frame: frame00068
+  Number of Detections: 17
+  Objects Detected:
+    car: 14
+    person: 3
+- Frame: frame00069
+  Number of Detections: 14
+  Objects Detected:
+    car: 12
+    person: 2
+- Frame: frame00070
+  Number of Detections: 18
+  Objects Detected:
+    car: 14
+    person: 4
+- Frame: frame00071
+  Number of Detections: 18
+  Objects Detected:
+    car: 13
+    person: 5
+- Frame: frame00072
+  Number of Detections: 15
+  Objects Detected:
+    car: 12
+    fire hydrant: 1
+    person: 2
+- Frame: frame00073
+  Number of Detections: 16
+  Objects Detected:
+    car: 14
+    person: 2
+- Frame: frame00074
+  Number of Detections: 12
+  Objects Detected:
+    car: 10
+    person: 2
+- Frame: frame00075
+  Number of Detections: 12
+  Objects Detected:
+    car: 9
+    person: 3
+- Frame: frame00076
+  Number of Detections: 15
+  Objects Detected:
+    car: 10
+    handbag: 1
+    person: 4
+- Frame: frame00077
+  Number of Detections: 15
+  Objects Detected:
+    car: 11
+    handbag: 1
+    person: 3
+- Frame: frame00078
+  Number of Detections: 14
+  Objects Detected:
+    car: 10
+    handbag: 2
+    person: 2
+- Frame: frame00079
+  Number of Detections: 13
+  Objects Detected:
+    car: 11
+    person: 2
+- Frame: frame00080
+  Number of Detections: 14
+  Objects Detected:
+    car: 11
+    handbag: 1
+    person: 2
+- Frame: frame00081
+  Number of Detections: 14
+  Objects Detected:
+    car: 12
+    handbag: 1
+    person: 1
+- Frame: frame00082
+  Number of Detections: 12
+  Objects Detected:
+    car: 11
+    person: 1
+- Frame: frame00083
+  Number of Detections: 12
+  Objects Detected:
+    car: 11
+    person: 1
+- Frame: frame00084
+  Number of Detections: 12
+  Objects Detected:
+    car: 10
+    person: 2
+- Frame: frame00085
+  Number of Detections: 13
+  Objects Detected:
+    car: 13
+- Frame: frame00086
+  Number of Detections: 14
+  Objects Detected:
+    car: 14
+- Frame: frame00087
+  Number of Detections: 11
+  Objects Detected:
+    car: 11
+- Frame: frame00088
+  Number of Detections: 14
+  Objects Detected:
+    car: 12
+    person: 1
+    truck: 1
+- Frame: frame00089
+  Number of Detections: 12
+  Objects Detected:
+    car: 12
+- Frame: frame00090
+  Number of Detections: 11
+  Objects Detected:
+    car: 10
+    truck: 1
+Duplicate Frame Ratio: 0.0
+Maximum Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  NySLrk0pZ0A=
+Median Frame Similarity: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  NaxNkJ5a6j8=
+Median Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  J54Vi0x7Y0A=
+Minimum Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  Jc9jfrlvWUA=
+Noisy Frame Ratio: 0.34831460674157305
+Removed Blurry Frames: 31
+Removed Duplicate Frames: 0
+Total Original Frames: 89
+Video: video_0010.mp4

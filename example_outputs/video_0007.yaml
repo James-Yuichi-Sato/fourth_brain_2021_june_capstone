@@ -1,0 +1,474 @@
+Classification Information:
+- Frame: frame00001
+  Number of Detections: 8
+  Objects Detected:
+    car: 4
+    person: 4
+- Frame: frame00002
+  Number of Detections: 9
+  Objects Detected:
+    car: 5
+    person: 4
+- Frame: frame00003
+  Number of Detections: 7
+  Objects Detected:
+    car: 3
+    person: 4
+- Frame: frame00004
+  Number of Detections: 8
+  Objects Detected:
+    car: 3
+    person: 4
+    truck: 1
+- Frame: frame00005
+  Number of Detections: 13
+  Objects Detected:
+    car: 4
+    person: 8
+    truck: 1
+- Frame: frame00006
+  Number of Detections: 8
+  Objects Detected:
+    car: 3
+    person: 5
+- Frame: frame00007
+  Number of Detections: 10
+  Objects Detected:
+    car: 3
+    person: 7
+- Frame: frame00008
+  Number of Detections: 13
+  Objects Detected:
+    car: 3
+    person: 10
+- Frame: frame00009
+  Number of Detections: 14
+  Objects Detected:
+    car: 4
+    person: 9
+    truck: 1
+- Frame: frame00010
+  Number of Detections: 10
+  Objects Detected:
+    boat: 1
+    car: 3
+    person: 6
+- Frame: frame00011
+  Number of Detections: 14
+  Objects Detected:
+    boat: 1
+    car: 5
+    horse: 1
+    person: 7
+- Frame: frame00012
+  Number of Detections: 12
+  Objects Detected:
+    car: 3
+    horse: 1
+    person: 7
+    truck: 1
+- Frame: frame00013
+  Number of Detections: 12
+  Objects Detected:
+    car: 3
+    horse: 1
+    person: 6
+    truck: 2
+- Frame: frame00014
+  Number of Detections: 6
+  Objects Detected:
+    car: 2
+    person: 3
+    truck: 1
+- Frame: frame00015
+  Number of Detections: 6
+  Objects Detected:
+    car: 2
+    person: 4
+- Frame: frame00016
+  Number of Detections: 12
+  Objects Detected:
+    car: 5
+    person: 7
+- Frame: frame00017
+  Number of Detections: 9
+  Objects Detected:
+    car: 3
+    person: 6
+- Frame: frame00018
+  Number of Detections: 7
+  Objects Detected:
+    car: 3
+    person: 4
+- Frame: frame00019
+  Number of Detections: 8
+  Objects Detected:
+    car: 3
+    person: 5
+- Frame: frame00020
+  Number of Detections: 9
+  Objects Detected:
+    car: 3
+    motorcycle: 1
+    person: 5
+- Frame: frame00021
+  Number of Detections: 11
+  Objects Detected:
+    car: 3
+    person: 8
+- Frame: frame00022
+  Number of Detections: 10
+  Objects Detected:
+    car: 3
+    person: 7
+- Frame: frame00023
+  Number of Detections: 9
+  Objects Detected:
+    car: 2
+    person: 7
+- Frame: frame00025
+  Number of Detections: 5
+  Objects Detected:
+    car: 2
+    person: 3
+- Frame: frame00029
+  Number of Detections: 11
+  Objects Detected:
+    car: 3
+    person: 7
+    train: 1
+- Frame: frame00059
+  Number of Detections: 9
+  Objects Detected:
+    car: 5
+    person: 3
+    train: 1
+- Frame: frame00061
+  Number of Detections: 9
+  Objects Detected:
+    backpack: 2
+    car: 5
+    person: 2
+- Frame: frame00065
+  Number of Detections: 6
+  Objects Detected:
+    car: 4
+    person: 2
+- Frame: frame00070
+  Number of Detections: 6
+  Objects Detected:
+    car: 2
+    cow: 1
+    person: 2
+    train: 1
+- Frame: frame00072
+  Number of Detections: 6
+  Objects Detected:
+    car: 2
+    person: 3
+    train: 1
+- Frame: frame00075
+  Number of Detections: 7
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 2
+    stop sign: 1
+    train: 1
+- Frame: frame00076
+  Number of Detections: 5
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    train: 1
+- Frame: frame00077
+  Number of Detections: 6
+  Objects Detected:
+    car: 3
+    motorcycle: 1
+    person: 1
+    train: 1
+- Frame: frame00078
+  Number of Detections: 5
+  Objects Detected:
+    car: 2
+    person: 1
+    stop sign: 1
+    train: 1
+- Frame: frame00079
+  Number of Detections: 3
+  Objects Detected:
+    car: 1
+    person: 1
+    train: 1
+- Frame: frame00080
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    person: 1
+    train: 1
+- Frame: frame00081
+  Number of Detections: 5
+  Objects Detected:
+    car: 3
+    person: 1
+    train: 1
+- Frame: frame00082
+  Number of Detections: 6
+  Objects Detected:
+    car: 3
+    person: 2
+    train: 1
+- Frame: frame00083
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    person: 1
+    train: 1
+- Frame: frame00084
+  Number of Detections: 3
+  Objects Detected:
+    car: 2
+    person: 1
+- Frame: frame00085
+  Number of Detections: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 1
+    train: 1
+- Frame: frame00086
+  Number of Detections: 5
+  Objects Detected:
+    car: 1
+    person: 3
+    train: 1
+- Frame: frame00087
+  Number of Detections: 3
+  Objects Detected:
+    car: 1
+    person: 2
+- Frame: frame00088
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    person: 2
+- Frame: frame00089
+  Number of Detections: 3
+  Objects Detected:
+    car: 2
+    person: 1
+- Frame: frame00090
+  Number of Detections: 5
+  Objects Detected:
+    car: 3
+    person: 1
+    train: 1
+- Frame: frame00091
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    traffic light: 1
+    train: 1
+- Frame: frame00092
+  Number of Detections: 6
+  Objects Detected:
+    bus: 1
+    car: 3
+    person: 1
+    train: 1
+- Frame: frame00093
+  Number of Detections: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 2
+- Frame: frame00094
+  Number of Detections: 5
+  Objects Detected:
+    car: 4
+    person: 1
+- Frame: frame00095
+  Number of Detections: 5
+  Objects Detected:
+    car: 4
+    person: 1
+- Frame: frame00096
+  Number of Detections: 5
+  Objects Detected:
+    car: 3
+    person: 2
+- Frame: frame00097
+  Number of Detections: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+- Frame: frame00098
+  Number of Detections: 4
+  Objects Detected:
+    car: 3
+    person: 1
+- Frame: frame00099
+  Number of Detections: 5
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 2
+- Frame: frame00100
+  Number of Detections: 4
+  Objects Detected:
+    car: 3
+    person: 1
+- Frame: frame00101
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+- Frame: frame00102
+  Number of Detections: 3
+  Objects Detected:
+    bicycle: 1
+    car: 2
+- Frame: frame00103
+  Number of Detections: 2
+  Objects Detected:
+    car: 1
+    person: 1
+- Frame: frame00104
+  Number of Detections: 5
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 2
+- Frame: frame00105
+  Number of Detections: 5
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 1
+- Frame: frame00106
+  Number of Detections: 4
+  Objects Detected:
+    bicycle: 1
+    car: 2
+    person: 1
+- Frame: frame00107
+  Number of Detections: 6
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 4
+- Frame: frame00108
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+- Frame: frame00109
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    person: 2
+- Frame: frame00110
+  Number of Detections: 3
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 1
+- Frame: frame00111
+  Number of Detections: 5
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 2
+    potted plant: 1
+- Frame: frame00112
+  Number of Detections: 5
+  Objects Detected:
+    car: 3
+    person: 2
+- Frame: frame00113
+  Number of Detections: 3
+  Objects Detected:
+    car: 1
+    person: 2
+- Frame: frame00114
+  Number of Detections: 5
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 3
+- Frame: frame00115
+  Number of Detections: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 2
+- Frame: frame00116
+  Number of Detections: 6
+  Objects Detected:
+    car: 2
+    fire hydrant: 2
+    person: 2
+- Frame: frame00117
+  Number of Detections: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+- Frame: frame00118
+  Number of Detections: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 2
+- Frame: frame00119
+  Number of Detections: 5
+  Objects Detected:
+    boat: 1
+    car: 1
+    fire hydrant: 1
+    person: 2
+- Frame: frame00120
+  Number of Detections: 5
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 1
+Duplicate Frame Ratio: 0.0
+Maximum Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  oJOLmllpdEA=
+Median Frame Similarity: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  eNLOrNQs5z8=
+Median Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  OuTMYZXbcEA=
+Minimum Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  ACpBfqioakA=
+Noisy Frame Ratio: 0.3697478991596639
+Removed Blurry Frames: 44
+Removed Duplicate Frames: 0
+Total Original Frames: 119
+Video: video_0007.mp4

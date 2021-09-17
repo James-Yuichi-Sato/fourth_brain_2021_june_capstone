@@ -1,0 +1,1252 @@
+Classification Information:
+- Frame: frame00001
+  Number of Detections: 19
+  Objects Detected:
+    car: 14
+    person: 5
+- Frame: frame00002
+  Number of Detections: 19
+  Objects Detected:
+    car: 13
+    person: 6
+- Frame: frame00003
+  Number of Detections: 26
+  Objects Detected:
+    car: 17
+    person: 9
+- Frame: frame00004
+  Number of Detections: 23
+  Objects Detected:
+    car: 14
+    person: 8
+    skateboard: 1
+- Frame: frame00005
+  Number of Detections: 21
+  Objects Detected:
+    car: 12
+    person: 8
+    skateboard: 1
+- Frame: frame00006
+  Number of Detections: 24
+  Objects Detected:
+    car: 13
+    person: 11
+- Frame: frame00007
+  Number of Detections: 27
+  Objects Detected:
+    car: 14
+    person: 12
+    skateboard: 1
+- Frame: frame00008
+  Number of Detections: 27
+  Objects Detected:
+    car: 14
+    person: 12
+    skateboard: 1
+- Frame: frame00009
+  Number of Detections: 26
+  Objects Detected:
+    car: 16
+    person: 10
+- Frame: frame00010
+  Number of Detections: 27
+  Objects Detected:
+    car: 17
+    person: 10
+- Frame: frame00011
+  Number of Detections: 27
+  Objects Detected:
+    car: 17
+    person: 10
+- Frame: frame00012
+  Number of Detections: 30
+  Objects Detected:
+    car: 19
+    person: 11
+- Frame: frame00013
+  Number of Detections: 27
+  Objects Detected:
+    car: 18
+    person: 9
+- Frame: frame00014
+  Number of Detections: 28
+  Objects Detected:
+    car: 20
+    person: 8
+- Frame: frame00015
+  Number of Detections: 24
+  Objects Detected:
+    car: 16
+    person: 8
+- Frame: frame00016
+  Number of Detections: 20
+  Objects Detected:
+    car: 15
+    person: 5
+- Frame: frame00017
+  Number of Detections: 22
+  Objects Detected:
+    car: 14
+    person: 8
+- Frame: frame00018
+  Number of Detections: 21
+  Objects Detected:
+    car: 13
+    person: 8
+- Frame: frame00019
+  Number of Detections: 21
+  Objects Detected:
+    car: 14
+    person: 7
+- Frame: frame00020
+  Number of Detections: 18
+  Objects Detected:
+    car: 10
+    kite: 1
+    person: 7
+- Frame: frame00021
+  Number of Detections: 21
+  Objects Detected:
+    car: 13
+    person: 8
+- Frame: frame00022
+  Number of Detections: 21
+  Objects Detected:
+    car: 13
+    person: 8
+- Frame: frame00023
+  Number of Detections: 20
+  Objects Detected:
+    car: 11
+    person: 9
+- Frame: frame00024
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 10
+- Frame: frame00025
+  Number of Detections: 17
+  Objects Detected:
+    car: 11
+    person: 6
+- Frame: frame00026
+  Number of Detections: 21
+  Objects Detected:
+    car: 11
+    kite: 1
+    person: 8
+    snowboard: 1
+- Frame: frame00027
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 8
+- Frame: frame00028
+  Number of Detections: 17
+  Objects Detected:
+    car: 10
+    person: 7
+- Frame: frame00029
+  Number of Detections: 24
+  Objects Detected:
+    car: 13
+    giraffe: 1
+    person: 10
+- Frame: frame00030
+  Number of Detections: 23
+  Objects Detected:
+    car: 12
+    person: 11
+- Frame: frame00031
+  Number of Detections: 24
+  Objects Detected:
+    bird: 1
+    car: 12
+    person: 11
+- Frame: frame00032
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    person: 7
+- Frame: frame00033
+  Number of Detections: 20
+  Objects Detected:
+    car: 12
+    person: 8
+- Frame: frame00034
+  Number of Detections: 21
+  Objects Detected:
+    book: 1
+    car: 12
+    person: 8
+- Frame: frame00035
+  Number of Detections: 22
+  Objects Detected:
+    car: 14
+    person: 8
+- Frame: frame00036
+  Number of Detections: 22
+  Objects Detected:
+    car: 14
+    kite: 1
+    person: 7
+- Frame: frame00037
+  Number of Detections: 20
+  Objects Detected:
+    car: 11
+    giraffe: 1
+    person: 8
+- Frame: frame00038
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 8
+- Frame: frame00039
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 8
+- Frame: frame00040
+  Number of Detections: 18
+  Objects Detected:
+    car: 10
+    giraffe: 1
+    kite: 1
+    person: 6
+- Frame: frame00041
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    kite: 1
+    person: 11
+- Frame: frame00042
+  Number of Detections: 18
+  Objects Detected:
+    car: 12
+    person: 6
+- Frame: frame00043
+  Number of Detections: 22
+  Objects Detected:
+    car: 12
+    person: 10
+- Frame: frame00044
+  Number of Detections: 20
+  Objects Detected:
+    car: 12
+    person: 8
+- Frame: frame00045
+  Number of Detections: 22
+  Objects Detected:
+    car: 12
+    giraffe: 1
+    kite: 1
+    person: 8
+- Frame: frame00046
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    giraffe: 1
+    person: 9
+- Frame: frame00047
+  Number of Detections: 26
+  Objects Detected:
+    car: 14
+    giraffe: 1
+    person: 11
+- Frame: frame00048
+  Number of Detections: 21
+  Objects Detected:
+    car: 12
+    giraffe: 1
+    person: 8
+- Frame: frame00049
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    giraffe: 1
+    person: 6
+- Frame: frame00050
+  Number of Detections: 17
+  Objects Detected:
+    car: 11
+    giraffe: 1
+    person: 5
+- Frame: frame00051
+  Number of Detections: 17
+  Objects Detected:
+    bicycle: 1
+    car: 12
+    giraffe: 1
+    person: 3
+- Frame: frame00052
+  Number of Detections: 21
+  Objects Detected:
+    bicycle: 3
+    car: 14
+    giraffe: 1
+    person: 3
+- Frame: frame00053
+  Number of Detections: 23
+  Objects Detected:
+    car: 14
+    giraffe: 1
+    person: 8
+- Frame: frame00054
+  Number of Detections: 24
+  Objects Detected:
+    car: 14
+    giraffe: 1
+    person: 9
+- Frame: frame00055
+  Number of Detections: 22
+  Objects Detected:
+    car: 14
+    person: 8
+- Frame: frame00056
+  Number of Detections: 21
+  Objects Detected:
+    car: 10
+    giraffe: 1
+    person: 10
+- Frame: frame00057
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    giraffe: 1
+    person: 11
+- Frame: frame00058
+  Number of Detections: 24
+  Objects Detected:
+    car: 14
+    giraffe: 1
+    person: 9
+- Frame: frame00059
+  Number of Detections: 26
+  Objects Detected:
+    car: 14
+    giraffe: 1
+    person: 11
+- Frame: frame00060
+  Number of Detections: 23
+  Objects Detected:
+    car: 12
+    giraffe: 1
+    person: 10
+- Frame: frame00061
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    person: 12
+- Frame: frame00062
+  Number of Detections: 25
+  Objects Detected:
+    car: 13
+    person: 12
+- Frame: frame00063
+  Number of Detections: 20
+  Objects Detected:
+    car: 11
+    person: 9
+- Frame: frame00064
+  Number of Detections: 22
+  Objects Detected:
+    car: 10
+    person: 12
+- Frame: frame00065
+  Number of Detections: 26
+  Objects Detected:
+    car: 14
+    giraffe: 1
+    person: 11
+- Frame: frame00066
+  Number of Detections: 23
+  Objects Detected:
+    car: 13
+    person: 10
+- Frame: frame00067
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    person: 12
+- Frame: frame00068
+  Number of Detections: 22
+  Objects Detected:
+    car: 13
+    person: 9
+- Frame: frame00069
+  Number of Detections: 25
+  Objects Detected:
+    car: 12
+    person: 13
+- Frame: frame00070
+  Number of Detections: 21
+  Objects Detected:
+    car: 10
+    person: 11
+- Frame: frame00071
+  Number of Detections: 22
+  Objects Detected:
+    car: 11
+    person: 11
+- Frame: frame00072
+  Number of Detections: 24
+  Objects Detected:
+    bicycle: 1
+    car: 12
+    person: 11
+- Frame: frame00073
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    person: 12
+- Frame: frame00074
+  Number of Detections: 21
+  Objects Detected:
+    car: 13
+    person: 8
+- Frame: frame00075
+  Number of Detections: 22
+  Objects Detected:
+    car: 14
+    person: 8
+- Frame: frame00076
+  Number of Detections: 21
+  Objects Detected:
+    car: 12
+    person: 9
+- Frame: frame00077
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    person: 7
+- Frame: frame00078
+  Number of Detections: 22
+  Objects Detected:
+    car: 12
+    person: 10
+- Frame: frame00079
+  Number of Detections: 18
+  Objects Detected:
+    car: 12
+    person: 6
+- Frame: frame00080
+  Number of Detections: 20
+  Objects Detected:
+    car: 13
+    person: 7
+- Frame: frame00081
+  Number of Detections: 20
+  Objects Detected:
+    car: 13
+    person: 7
+- Frame: frame00082
+  Number of Detections: 18
+  Objects Detected:
+    car: 12
+    person: 6
+- Frame: frame00083
+  Number of Detections: 17
+  Objects Detected:
+    car: 12
+    person: 5
+- Frame: frame00084
+  Number of Detections: 19
+  Objects Detected:
+    car: 13
+    person: 5
+    truck: 1
+- Frame: frame00085
+  Number of Detections: 18
+  Objects Detected:
+    car: 11
+    person: 7
+- Frame: frame00086
+  Number of Detections: 21
+  Objects Detected:
+    car: 14
+    person: 7
+- Frame: frame00087
+  Number of Detections: 21
+  Objects Detected:
+    car: 13
+    person: 8
+- Frame: frame00088
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    person: 7
+- Frame: frame00089
+  Number of Detections: 19
+  Objects Detected:
+    car: 13
+    person: 6
+- Frame: frame00090
+  Number of Detections: 22
+  Objects Detected:
+    car: 14
+    person: 8
+- Frame: frame00091
+  Number of Detections: 20
+  Objects Detected:
+    car: 13
+    person: 7
+- Frame: frame00092
+  Number of Detections: 19
+  Objects Detected:
+    car: 13
+    person: 6
+- Frame: frame00093
+  Number of Detections: 18
+  Objects Detected:
+    car: 13
+    person: 5
+- Frame: frame00094
+  Number of Detections: 19
+  Objects Detected:
+    car: 13
+    person: 6
+- Frame: frame00095
+  Number of Detections: 18
+  Objects Detected:
+    car: 12
+    person: 6
+- Frame: frame00096
+  Number of Detections: 19
+  Objects Detected:
+    car: 14
+    person: 5
+- Frame: frame00097
+  Number of Detections: 22
+  Objects Detected:
+    car: 16
+    person: 6
+- Frame: frame00098
+  Number of Detections: 21
+  Objects Detected:
+    car: 16
+    person: 5
+- Frame: frame00099
+  Number of Detections: 23
+  Objects Detected:
+    car: 17
+    person: 6
+- Frame: frame00100
+  Number of Detections: 21
+  Objects Detected:
+    car: 15
+    person: 6
+- Frame: frame00101
+  Number of Detections: 19
+  Objects Detected:
+    car: 14
+    person: 5
+- Frame: frame00102
+  Number of Detections: 17
+  Objects Detected:
+    car: 12
+    person: 5
+- Frame: frame00103
+  Number of Detections: 16
+  Objects Detected:
+    car: 11
+    person: 5
+- Frame: frame00104
+  Number of Detections: 18
+  Objects Detected:
+    car: 12
+    person: 6
+- Frame: frame00105
+  Number of Detections: 18
+  Objects Detected:
+    car: 12
+    person: 6
+- Frame: frame00106
+  Number of Detections: 17
+  Objects Detected:
+    car: 11
+    person: 6
+- Frame: frame00107
+  Number of Detections: 18
+  Objects Detected:
+    car: 11
+    person: 7
+- Frame: frame00108
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    person: 7
+- Frame: frame00109
+  Number of Detections: 17
+  Objects Detected:
+    car: 11
+    person: 6
+- Frame: frame00110
+  Number of Detections: 16
+  Objects Detected:
+    car: 11
+    person: 5
+- Frame: frame00111
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    person: 7
+- Frame: frame00112
+  Number of Detections: 24
+  Objects Detected:
+    car: 15
+    person: 8
+    truck: 1
+- Frame: frame00113
+  Number of Detections: 21
+  Objects Detected:
+    car: 13
+    person: 7
+    truck: 1
+- Frame: frame00115
+  Number of Detections: 19
+  Objects Detected:
+    car: 14
+    person: 4
+    truck: 1
+- Frame: frame00116
+  Number of Detections: 19
+  Objects Detected:
+    car: 13
+    person: 5
+    truck: 1
+- Frame: frame00117
+  Number of Detections: 21
+  Objects Detected:
+    car: 13
+    person: 8
+- Frame: frame00118
+  Number of Detections: 22
+  Objects Detected:
+    car: 13
+    person: 9
+- Frame: frame00119
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    person: 11
+    truck: 1
+- Frame: frame00120
+  Number of Detections: 22
+  Objects Detected:
+    car: 11
+    person: 10
+    truck: 1
+- Frame: frame00121
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    person: 7
+- Frame: frame00122
+  Number of Detections: 19
+  Objects Detected:
+    car: 12
+    person: 7
+- Frame: frame00123
+  Number of Detections: 19
+  Objects Detected:
+    car: 10
+    person: 8
+    truck: 1
+- Frame: frame00124
+  Number of Detections: 17
+  Objects Detected:
+    car: 10
+    person: 7
+- Frame: frame00125
+  Number of Detections: 16
+  Objects Detected:
+    car: 10
+    person: 6
+- Frame: frame00127
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 8
+- Frame: frame00128
+  Number of Detections: 21
+  Objects Detected:
+    car: 10
+    person: 11
+- Frame: frame00129
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 7
+    truck: 1
+- Frame: frame00130
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 9
+    truck: 1
+- Frame: frame00131
+  Number of Detections: 23
+  Objects Detected:
+    car: 12
+    person: 10
+    truck: 1
+- Frame: frame00132
+  Number of Detections: 22
+  Objects Detected:
+    car: 9
+    person: 13
+- Frame: frame00133
+  Number of Detections: 23
+  Objects Detected:
+    car: 10
+    person: 13
+- Frame: frame00134
+  Number of Detections: 23
+  Objects Detected:
+    car: 9
+    person: 14
+- Frame: frame00135
+  Number of Detections: 25
+  Objects Detected:
+    car: 9
+    person: 15
+    truck: 1
+- Frame: frame00136
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 10
+- Frame: frame00137
+  Number of Detections: 18
+  Objects Detected:
+    car: 10
+    person: 8
+- Frame: frame00138
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 10
+- Frame: frame00139
+  Number of Detections: 16
+  Objects Detected:
+    car: 10
+    person: 6
+- Frame: frame00140
+  Number of Detections: 21
+  Objects Detected:
+    car: 10
+    horse: 1
+    person: 10
+- Frame: frame00141
+  Number of Detections: 21
+  Objects Detected:
+    car: 11
+    horse: 1
+    person: 8
+    truck: 1
+- Frame: frame00142
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 7
+    truck: 1
+- Frame: frame00143
+  Number of Detections: 17
+  Objects Detected:
+    car: 10
+    person: 7
+- Frame: frame00144
+  Number of Detections: 18
+  Objects Detected:
+    car: 10
+    person: 8
+- Frame: frame00145
+  Number of Detections: 20
+  Objects Detected:
+    car: 11
+    person: 9
+- Frame: frame00146
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 8
+- Frame: frame00147
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00148
+  Number of Detections: 17
+  Objects Detected:
+    car: 9
+    person: 8
+- Frame: frame00149
+  Number of Detections: 18
+  Objects Detected:
+    car: 9
+    person: 9
+- Frame: frame00150
+  Number of Detections: 19
+  Objects Detected:
+    car: 10
+    person: 9
+- Frame: frame00151
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00152
+  Number of Detections: 17
+  Objects Detected:
+    car: 10
+    person: 7
+- Frame: frame00153
+  Number of Detections: 17
+  Objects Detected:
+    car: 11
+    person: 6
+- Frame: frame00154
+  Number of Detections: 19
+  Objects Detected:
+    car: 11
+    person: 8
+- Frame: frame00155
+  Number of Detections: 19
+  Objects Detected:
+    car: 10
+    person: 9
+- Frame: frame00156
+  Number of Detections: 22
+  Objects Detected:
+    car: 10
+    person: 12
+- Frame: frame00157
+  Number of Detections: 17
+  Objects Detected:
+    car: 9
+    person: 8
+- Frame: frame00158
+  Number of Detections: 18
+  Objects Detected:
+    car: 9
+    person: 9
+- Frame: frame00159
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00160
+  Number of Detections: 16
+  Objects Detected:
+    car: 8
+    person: 8
+- Frame: frame00161
+  Number of Detections: 17
+  Objects Detected:
+    car: 8
+    person: 9
+- Frame: frame00162
+  Number of Detections: 18
+  Objects Detected:
+    car: 8
+    person: 10
+- Frame: frame00163
+  Number of Detections: 18
+  Objects Detected:
+    car: 8
+    person: 10
+- Frame: frame00164
+  Number of Detections: 19
+  Objects Detected:
+    car: 10
+    person: 9
+- Frame: frame00165
+  Number of Detections: 20
+  Objects Detected:
+    car: 11
+    person: 9
+- Frame: frame00167
+  Number of Detections: 17
+  Objects Detected:
+    car: 11
+    person: 6
+- Frame: frame00169
+  Number of Detections: 24
+  Objects Detected:
+    car: 11
+    horse: 1
+    person: 12
+- Frame: frame00171
+  Number of Detections: 23
+  Objects Detected:
+    car: 11
+    person: 12
+- Frame: frame00172
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 10
+- Frame: frame00173
+  Number of Detections: 22
+  Objects Detected:
+    car: 11
+    person: 11
+- Frame: frame00175
+  Number of Detections: 23
+  Objects Detected:
+    car: 11
+    person: 12
+- Frame: frame00176
+  Number of Detections: 23
+  Objects Detected:
+    car: 10
+    person: 13
+- Frame: frame00177
+  Number of Detections: 22
+  Objects Detected:
+    car: 11
+    person: 11
+- Frame: frame00179
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 10
+- Frame: frame00181
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    person: 12
+- Frame: frame00183
+  Number of Detections: 17
+  Objects Detected:
+    car: 10
+    person: 7
+- Frame: frame00184
+  Number of Detections: 20
+  Objects Detected:
+    car: 11
+    person: 9
+- Frame: frame00185
+  Number of Detections: 25
+  Objects Detected:
+    car: 14
+    person: 11
+- Frame: frame00187
+  Number of Detections: 24
+  Objects Detected:
+    car: 12
+    person: 12
+- Frame: frame00188
+  Number of Detections: 22
+  Objects Detected:
+    car: 12
+    person: 10
+- Frame: frame00189
+  Number of Detections: 18
+  Objects Detected:
+    car: 9
+    person: 9
+- Frame: frame00191
+  Number of Detections: 21
+  Objects Detected:
+    car: 10
+    person: 11
+- Frame: frame00193
+  Number of Detections: 19
+  Objects Detected:
+    car: 9
+    person: 10
+- Frame: frame00195
+  Number of Detections: 19
+  Objects Detected:
+    car: 10
+    person: 9
+- Frame: frame00196
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    person: 10
+- Frame: frame00197
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    horse: 1
+    person: 9
+- Frame: frame00199
+  Number of Detections: 22
+  Objects Detected:
+    car: 9
+    person: 13
+- Frame: frame00200
+  Number of Detections: 21
+  Objects Detected:
+    car: 10
+    person: 11
+- Frame: frame00201
+  Number of Detections: 21
+  Objects Detected:
+    car: 10
+    person: 11
+- Frame: frame00203
+  Number of Detections: 19
+  Objects Detected:
+    car: 8
+    person: 11
+- Frame: frame00205
+  Number of Detections: 20
+  Objects Detected:
+    car: 9
+    person: 11
+- Frame: frame00207
+  Number of Detections: 22
+  Objects Detected:
+    car: 11
+    horse: 2
+    person: 9
+- Frame: frame00208
+  Number of Detections: 22
+  Objects Detected:
+    car: 10
+    person: 12
+- Frame: frame00209
+  Number of Detections: 24
+  Objects Detected:
+    car: 13
+    person: 11
+- Frame: frame00211
+  Number of Detections: 20
+  Objects Detected:
+    car: 10
+    horse: 1
+    person: 9
+- Frame: frame00212
+  Number of Detections: 18
+  Objects Detected:
+    car: 10
+    horse: 1
+    person: 7
+- Frame: frame00214
+  Number of Detections: 22
+  Objects Detected:
+    car: 11
+    person: 11
+- Frame: frame00217
+  Number of Detections: 21
+  Objects Detected:
+    car: 11
+    person: 10
+- Frame: frame00218
+  Number of Detections: 23
+  Objects Detected:
+    car: 10
+    person: 13
+- Frame: frame00220
+  Number of Detections: 22
+  Objects Detected:
+    car: 10
+    person: 12
+- Frame: frame00221
+  Number of Detections: 25
+  Objects Detected:
+    car: 11
+    person: 14
+- Frame: frame00223
+  Number of Detections: 18
+  Objects Detected:
+    car: 9
+    person: 9
+- Frame: frame00224
+  Number of Detections: 14
+  Objects Detected:
+    car: 8
+    person: 6
+- Frame: frame00227
+  Number of Detections: 15
+  Objects Detected:
+    car: 8
+    person: 7
+- Frame: frame00229
+  Number of Detections: 15
+  Objects Detected:
+    car: 9
+    person: 6
+- Frame: frame00231
+  Number of Detections: 16
+  Objects Detected:
+    car: 10
+    person: 6
+- Frame: frame00232
+  Number of Detections: 16
+  Objects Detected:
+    car: 12
+    person: 4
+- Frame: frame00235
+  Number of Detections: 17
+  Objects Detected:
+    car: 9
+    person: 8
+- Frame: frame00236
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00238
+  Number of Detections: 16
+  Objects Detected:
+    car: 11
+    person: 5
+- Frame: frame00239
+  Number of Detections: 17
+  Objects Detected:
+    car: 9
+    person: 8
+- Frame: frame00241
+  Number of Detections: 18
+  Objects Detected:
+    car: 10
+    person: 8
+- Frame: frame00243
+  Number of Detections: 15
+  Objects Detected:
+    car: 9
+    person: 6
+- Frame: frame00244
+  Number of Detections: 17
+  Objects Detected:
+    car: 9
+    person: 8
+- Frame: frame00246
+  Number of Detections: 18
+  Objects Detected:
+    car: 9
+    person: 9
+- Frame: frame00247
+  Number of Detections: 17
+  Objects Detected:
+    car: 8
+    person: 9
+- Frame: frame00249
+  Number of Detections: 15
+  Objects Detected:
+    car: 8
+    horse: 1
+    person: 6
+- Frame: frame00250
+  Number of Detections: 15
+  Objects Detected:
+    car: 8
+    person: 7
+- Frame: frame00257
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00258
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00260
+  Number of Detections: 14
+  Objects Detected:
+    car: 9
+    person: 5
+- Frame: frame00261
+  Number of Detections: 15
+  Objects Detected:
+    car: 9
+    person: 6
+- Frame: frame00263
+  Number of Detections: 14
+  Objects Detected:
+    car: 8
+    person: 6
+- Frame: frame00267
+  Number of Detections: 14
+  Objects Detected:
+    car: 10
+    person: 4
+- Frame: frame00268
+  Number of Detections: 11
+  Objects Detected:
+    car: 7
+    cow: 1
+    person: 3
+- Frame: frame00270
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00271
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 7
+- Frame: frame00273
+  Number of Detections: 16
+  Objects Detected:
+    car: 8
+    horse: 2
+    person: 5
+    traffic light: 1
+- Frame: frame00276
+  Number of Detections: 16
+  Objects Detected:
+    car: 9
+    person: 5
+    traffic light: 2
+- Frame: frame00279
+  Number of Detections: 11
+  Objects Detected:
+    car: 6
+    person: 5
+- Frame: frame00280
+  Number of Detections: 14
+  Objects Detected:
+    car: 9
+    person: 5
+- Frame: frame00282
+  Number of Detections: 15
+  Objects Detected:
+    car: 10
+    person: 5
+- Frame: frame00286
+  Number of Detections: 13
+  Objects Detected:
+    car: 6
+    person: 7
+Duplicate Frame Ratio: 0.0
+Maximum Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  BIirP3jedUA=
+Median Frame Similarity: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  WnTkPsze7D8=
+Median Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  H/SBCptVcUA=
+Minimum Laplacian Variance: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  iLvQSsiraUA=
+Noisy Frame Ratio: 0.3009118541033435
+Removed Blurry Frames: 99
+Removed Duplicate Frames: 0
+Total Original Frames: 329
+Video: video_0006.mp4
