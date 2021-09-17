@@ -162,9 +162,9 @@ model_dir = pathlib.Path(model_dir)/"saved_model"
 model = tf.saved_model.load(str(model_dir))
 model = model.signatures['serving_default']
 
-label_map = label_map_util.load_labelmap(PATH_TO_LABELS)
-categories = label_map_util.convert_label_map_to_categories(label_map, max_num_classes=90, use_display_name=True)
-category_index = label_map_util.create_category_index(categories)
+#label_map = label_map_util.load_labelmap(PATH_TO_LABELS)
+#categories = label_map_util.convert_label_map_to_categories(label_map, max_num_classes=90, use_display_name=True)
+#category_index = label_map_util.create_category_index(categories)
 
 def detect_objects(image):
     img = Image.open(file_)
