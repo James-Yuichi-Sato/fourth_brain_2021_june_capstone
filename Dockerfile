@@ -9,7 +9,7 @@ RUN apt-get update && \
     apt-get -y upgrade
 
 #Install Object Detection dependencies
-RUN python3 -m pip install fastapi ffmpeg uvicorn python-multipart tensorflow-gpu scikit-image imutils wandb tensorflow_hub Pillow google-cloud
+RUN python3 -m pip install fastapi ffmpeg uvicorn python-multipart tensorflow-gpu scikit-image imutils wandb tensorflow_hub Pillow google-cloud google
 
 RUN pip3 install pillow
 
