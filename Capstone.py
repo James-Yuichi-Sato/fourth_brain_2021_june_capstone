@@ -167,7 +167,7 @@ model = model.signatures['serving_default']
 #category_index = label_map_util.create_category_index(categories)
 
 def detect_objects(image):
-    img = Image.open(file_)
+    img = Image.open(image)
     input_tensor = tf.convert_to_tensor(img)
     input_tensor = input_tensor[tf.newaxis,...]
     output_dict = model(input_tensor)
