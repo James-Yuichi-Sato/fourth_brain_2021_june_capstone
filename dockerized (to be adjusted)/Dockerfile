@@ -30,7 +30,7 @@ RUN python3 /opt/fourth_brain_2021_june_capstone/Capstone.py
 ENV WANDB_API_KEY=$YOUR_API_KEY_HERE
     
 # expose ports
-EXPOSE 8080
+EXPOSE 8000
 
 #Command
 CMD ["python3", "/opt/fourth_brain_2021_june_capstone/Capstone.py", "serve"]
