@@ -36,13 +36,13 @@ This workflow uses the GCP Cloud Storage library to bulk store the video footage
 
 Before:
 
-![GCP Before](media\GCP_before.png)
+<img src="media\GCP_before.png" alt="media\GCP_before.png"></img>
 
 
 
 After:
 
-![GCP After](media\GCP_after.png)
+<img src="media\GCP_after.png" alt="media\GCP_after.png"></img>
 
 ### Frame Separation
 
@@ -60,7 +60,7 @@ The software uses the structural similarity function from OpenCV to compare fram
 
 The software uses the open-source [Faster RCNN Resnet50 model trained on Coco dataset](http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet50_coco_2018_01_28.tar.gz) to classify objects in each frame. The detection classes are saved in a text file with the same name as the frame it was detecting in the frames folder.
 
-<img src="media\GCP_frames.png" alt="media\GCP_frames.png">
+<img src="media\GCP_frames.png" alt="media\GCP_frames.png"></img>
 
 Frames with detection metadata after workflow is completed
 
@@ -68,9 +68,9 @@ Frames with detection metadata after workflow is completed
 
 ### Weights and Biases
 
-This software runs 
+This software uses Weights and Biases to show real time values from the analysis. Create the API key necessary to connect the software at wandb.ai/authorize
 
-<img src="media\weights_and_biases3.png" alt="media\weights_and_biases3.png">
+<img src="media\weights_and_biases3.png" alt="media\weights_and_biases3.png"></img>
 
 ### GCP IAM Key
 
@@ -80,7 +80,7 @@ The software uses a `gcp_key.json` file to access the google cloud storage insta
 
 This software exposes FastAPI on port 8000 of the machine. You can access all of the functions using `http://<EXTERNAL_URL>:8000/doc/`. You can frame clean individual videos in the GCP bucket using the `clean_single_video` call. You can frame clean all videos in the GCP bucket using the `clean_bucket` call.
 
-<img src="media\fastapi.png" alt="media\fastapi.png">
+<img src="media\fastapi.png" alt="media\fastapi.png"></img>
 
 
 
